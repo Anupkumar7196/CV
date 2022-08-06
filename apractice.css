@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+h1{
+    margin-top: 0;
+    color: brown;
+}
+p{
+    color: red;
+}
+span{
+    text-decoration: underline;
+}

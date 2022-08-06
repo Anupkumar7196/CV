@@ -1,0 +1,147 @@
+body{
+    margin:0px;
+    text-align: center;
+    font-family:"Sofia",sans-serif;
+    font-size:8em;
+    
+}
+h1{
+    font-size: 2em;
+    margin: 0px;
+    text-align: center;
+    padding: 100px;
+    color: aqua;
+}
+h2{
+    color: aqua;
+}
+h3{
+    color: aqua;
+}
+
+.top-container{
+background-color: grey;
+font-size: 200%;
+}
+.middle-container{
+   margin:10% 0%;
+}
+.bottom-container{
+   
+}
+style{
+    margin-top: 0px;
+
+}
+span{
+    text-decoration: underline;
+    background-color: blue;
+}
+.top-cloud{
+width:40%;
+position: absolute;
+left:150px;
+bottom:400px;
+}
+.bottom-cloud{
+width: 40%;
+position:absolute;
+right: 100px;
+bottom:300px;
+}
+.bottom-mountain{
+    width: 100%;
+    height: 100%;
+}
+hr{
+   border: dotted grey 10px;
+   border-bottom: none;
+   width:10%;
+}
+.anup2{
+width:15%;
+float:left;
+clear: left;
+
+}
+.anup3{
+    width: 15%;
+    float:right;
+}
+.p-first{
+    font-size: 1em;
+    color: aqua;
+}
+.skills
+{
+    position: center;
+
+}
+.profile{
+    position: center;
+}
+.p-discription{
+    font-size:50%;
+    clear: left;
+}
+.p-2discription{
+    font-size:50%;
+    clear: right;
+}
+.p-second{
+    font-size: 50%;
+}
+.anup1{
+    width: 15%;
+}
+.contact-me{
+    font-size: 50%;
+}
+.bottom-container{
+    background-color:darkgray;
+    font-size: 60%;
+    padding: 60px 0px 20px;
+}
+a{
+color:red;
+margin:10px 4em ;
+}
+a:hover{
+    color:blue;
+}
+.copy-right{
+    color: #EAF6F6;
+    font-size:8rem;
+}
+.contact-massage{
+    width: 50%;
+    margin: 40px auto 60px;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, 570A57);
+    background-image: -moz-linear-gradient(top, #3498db, 570A57);
+    background-image: -ms-linear-gradient(top, #3498db, 570A57);
+    background-image: -o-linear-gradient(top, #3498db, 570A57);
+    background-image: linear-gradient(to bottom, #3498db, 570A57);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    text-shadow: 1px 27px 30px #666666;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 60px;
+    padding: 0px 24px 13px 20px;
+    border: solid #1f628d 10px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
